@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# MacOS-specific
+.DS_Store
+
+# VSCode settings (if used)
+.vscode/
+
+# PyCharm settings (if used)
+.idea/
+
+# Output folders and generated files
+*.log
+*.zip
+scan-*/
+
+# Ignore Chrome webdriver temp data (if any)
+chrome-user-data-*/
+
+# Ignore thumbnails if needed (optional, depends if you want them tracked)
+*_thumb.png
+
