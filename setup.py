@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="ip-screenshot-scanner",
-    version="1.0.0",
+    version="1.1.0",
     description="Scan IPs for web servers, capture screenshots, and generate galleries.",
     author="Jon Arnar Jonsson",
     license="MIT",
